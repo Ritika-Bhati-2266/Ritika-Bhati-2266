@@ -99,7 +99,7 @@
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/Ritika-Bhati-2266/Ritika-Bhati-2266/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ritika-Bhati-2266/Ritika-Bhati-2266/blob/output/github-contribution-grid-snake.svg?raw=true)
 
 ---
 
