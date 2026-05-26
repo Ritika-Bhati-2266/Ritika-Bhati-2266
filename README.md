@@ -20,17 +20,6 @@
 ---
 
 
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Ritika-Bhati-2266&theme=tokyonight&show_icons=true&hide_border=true&cache_seconds=86400)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ritika-Bhati-2266&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Bhati-2266&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
----
-
 # 🏆 Achievements:
 ![](https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6)
 
