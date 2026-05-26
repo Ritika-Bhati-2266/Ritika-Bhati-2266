@@ -19,22 +19,7 @@
 
 ---
 
-# ✍️ Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-# 👁️ Visitors:
-![](https://visitcount.itsvg.in/api?id=Ritika-Bhati-2266&icon=0&color=0)
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Turning+Data+into+Intelligence+%F0%9F%A4%96&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%"/>
-
-
-
-
-
 
 
 ## 🌐 Socials:
@@ -47,8 +32,6 @@
 ![](https://streak-stats.demolab.com/?user=Ritika-Bhati-2266&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ritika-Bhati-2266&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 🏆 Achievements:
 ![](https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6)
