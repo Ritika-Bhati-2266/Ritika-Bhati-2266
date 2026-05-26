@@ -85,12 +85,6 @@
 
 ---
 
-# 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Ritika-Bhati-2266&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
 # ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
