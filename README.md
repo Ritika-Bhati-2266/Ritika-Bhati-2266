@@ -19,8 +19,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Turning+Data+into+Intelligence+%F0%9F%A4%96&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%"/>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritika-bhati/) 
