@@ -14,7 +14,9 @@
 📊 Turning raw data into meaningful insights.  
 🚀 Always learning new tools & building impactful projects.  
 💻 Believer in AI transforming industries.
+
 <br clear="right"/>
+
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritika-bhati/)
