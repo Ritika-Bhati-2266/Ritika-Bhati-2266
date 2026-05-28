@@ -73,9 +73,8 @@
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6"
+    src="https://github-profile-trophy-eight.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6"
     alt="GitHub Trophies"
-    width="100%"
   />
 </div>
 ---
