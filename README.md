@@ -1,37 +1,76 @@
+---
+
+# 💻 Tech Stack
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&height=60&lines=Hey+there!+I'm+Ritika+Bhati+%F0%9F%91%8B;AI+%26+ML+Engineer+%F0%9F%A4%96;Data+Science+Enthusiast+%F0%9F%93%8A;Building+Intelligent+Systems+%F0%9F%9A%80;Turning+Data+into+Insights+%F0%9F%92%A1" />
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<br>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-<img src="https://komarev.com/ghpvc/?username=Ritika-Bhati-2266&label=Visitors&color=blueviolet&style=for-the-badge" />
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
-# 💫 About Me
+---
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+# 🚀 Current Focus
 
-- 🤖 Passionate about AI, Machine Learning & Data Science
-- 💡 Building AI-powered and data-driven solutions
-- 📊 Turning raw data into meaningful insights
-- 🚀 Always learning and creating impactful projects
-- 💻 Believer in AI transforming industries
-
-<br clear="right"/>
+- 🔭 Building AI & Machine Learning Projects
+- 🌱 Learning Advanced ML & Generative AI
+- 🤝 Open to Open Source Collaborations
+- ⚡ Exploring AI Agents & MCP Servers
 
 ---
 
-# 🌐 Connect With Me
+# 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ritika-bhati/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ritika-Bhati-2266&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<a href="https://github.com/Ritika-Bhati-2266">
-  <img src="https://img.shields.io/badge/GitHub-12100E?logo=github&logoColor=white" />
-</a>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritika-Bhati-2266&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Bhati-2266&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Ritika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritika-Bhati-2266&theme=tokyo-night)](https://github.com/Ritika-Bhati-2266)
+
+---
+
+# ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<div align="center">
+
+### 🚀 Transforming Data into Intelligent Solutions
+
+⭐ Thanks for visiting my profile!
 
 </div>
