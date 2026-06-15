@@ -11,7 +11,6 @@
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 # 💫 About Me:
-
 🤖 Passionate about building AI-powered and data-driven solutions using Artificial Intelligence, Machine Learning, and Data Science.  
 💡 I love transforming ideas into real-world applications using ML models and data analysis.  
 📊 Turning raw data into meaningful insights.  
@@ -23,7 +22,6 @@
 ---
 
 # 🌐 Connect With Me:
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritika-bhati/)
@@ -34,7 +32,6 @@
 ---
 
 # 💻 Tech Stack:
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -56,21 +53,24 @@
 ---
 
 # 📊 GitHub Stats:
-
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<!-- ✅ FIX: Apna khud ka Vercel deployment URL use karo neeche -->
+<!-- Step 1: https://github.com/anuraghazra/github-readme-stats fork karo -->
+<!-- Step 2: Vercel pe deploy karo + GITHUB_TOKEN env variable add karo -->
+<!-- Step 3: YOUR-APP-NAME ko apne actual Vercel app name se replace karo -->
 
-![](https://streak-stats.demolab.com?user=Ritika-Bhati-2266&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://YOUR-APP-NAME.vercel.app/api?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ritika-Bhati-2266&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://YOUR-APP-NAME.vercel.app/api/top-langs/?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
 ---
 
 # 🏆 GitHub Trophies:
-
 <div align="center">
   <img
     src="https://github-profile-trophy-eight.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6"
@@ -78,27 +78,25 @@
   />
 </div>
 
+---
 
 # 📈 Contribution Graph:
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Ritika-Bhati-2266&theme=tokyo-night)
 
 ---
 
 # ✍️ Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 # 🐍 Contribution Snake
-
 ![snake gif](https://github.com/Ritika-Bhati-2266/Ritika-Bhati-2266/blob/output/github-contribution-grid-snake.svg?raw=true)
 
 ---
 
 <div align="center">
 
-### 🚀 “Transforming Data into Intelligent Solutions”
+### 🚀 "Transforming Data into Intelligent Solutions"
 
 </div>
