@@ -64,7 +64,8 @@
 
 ![](https://streak-stats.demolab.com?user=Ritika-Bhati-2266&theme=tokyonight&hide_border=true)
 
-[![Ritika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritika-Bhati-2266&theme=github-compact)](https://github.com/Ritika-Bhati-2266)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&layout=compact)
+
 </div>
 
 ---
