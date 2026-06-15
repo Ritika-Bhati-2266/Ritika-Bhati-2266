@@ -74,10 +74,7 @@
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6"
-  alt="GitHub Trophies"
-/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Ritika-Bhati-2266)
 
 </div>
 
@@ -105,4 +102,4 @@
 
 ### 🚀 “Transforming Data into Intelligent Solutions”
 
-</div>
+</div>   
