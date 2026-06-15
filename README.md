@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&height=60&lines=Hey+there!+I'm+Ritika+Bhati+👋;AI+%26+ML+Engineer+🤖;Data+Science+Enthusiast+📊;Building+Intelligent+Systems+🚀;Turning+Data+into+Insights+💡)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=Ritika-Bhati-2266&label=Visitors&color=blueviolet&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Ritika-Bhati-2266&label=Visitors&color=blueviolet&style=for-the-badge" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-# 💫 About Me:
+# 💫 About Me
 
 🤖 Passionate about building AI-powered and data-driven solutions using Artificial Intelligence, Machine Learning, and Data Science.  
 💡 I love transforming ideas into real-world applications using ML models and data analysis.  
@@ -22,82 +22,92 @@
 
 ---
 
-# 🌐 Connect With Me:
+# 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritika-bhati/)
+<a href="https://www.linkedin.com/in/ritika-bhati/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-12100E?logo=github&logoColor=white)](https://github.com/Ritika-Bhati-2266)
+<a href="https://github.com/Ritika-Bhati-2266">
+  <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-streak-stats.demolab.com?user=Ritika-Bhati-2266&theme=tokyonight&hide_border=true)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ritika-Bhati-2266&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api?username=Ritika-Bhati-2266&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="170em" src="https://github-readme-streak-stats.demolab.com?user=Ritika-Bhati-2266&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Bhati-2266&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Bhati-2266&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies:
+# 📈 GitHub Activity
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Ritika-Bhati-2266)
+<img src="https://github-readme-stats.vercel.app/api?username=Ritika-Bhati-2266&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 </div>
 
----
-
-# 📈 Contribution Graph:
-
-[![Ritika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritika-Bhati-2266&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true)](https://github.com/Ritika-Bhati-2266)
 ---
 
 # ✍️ Random Dev Quote
 
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
+<div align="center">
+
 ![snake gif](https://github.com/Ritika-Bhati-2266/Ritika-Bhati-2266/blob/output/github-contribution-grid-snake.svg?raw=true)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 “Transforming Data into Intelligent Solutions”
+### 🚀 Transforming Data into Intelligent Solutions
 
-</div>   
+⭐ Thanks for visiting my profile!
+
+</div>
