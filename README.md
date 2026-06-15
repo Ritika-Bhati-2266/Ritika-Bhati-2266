@@ -74,8 +74,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Ritika-Bhati-2266)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266)](https://github.com/Ritika-Bhati-2266)
 </div>
 
 ---
