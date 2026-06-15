@@ -70,13 +70,9 @@
 
 ---
 
-# 🏆 GitHub Trophies:
+# 🏅 Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
-
+![](https://github-readme-stats.vercel.app/api?username=Ritika-Bhati-2266&show_icons=true&theme=tokyonight&hide_border=true)
 ---
 
 # 📈 Contribution Graph:
