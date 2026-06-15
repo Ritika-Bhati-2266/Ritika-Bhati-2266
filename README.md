@@ -60,25 +60,29 @@
 
 <div align="center">
 
-![](https://github-readme-streak-stats.demolab.com?user=Ritika-Bhati-2266&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api?username=Ritika-Bhati-2266&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=Ritika-Bhati-2266&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Bhati-2266&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
 ---
 
-# 🏅 Achievements
+# 🏆 GitHub Trophies:
 
-![](https://github-readme-stats.vercel.app/api?username=Ritika-Bhati-2266&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Ritika-Bhati-2266)
+
+</div>
+
 ---
 
 # 📈 Contribution Graph:
 
-[![Ritika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritika-Bhati-2266&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true)](https://github.com/Ritika-Bhati-2266)
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ritika-Bhati-2266&theme=tokyo-night)
 
 ---
 
