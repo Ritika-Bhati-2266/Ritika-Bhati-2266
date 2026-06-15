@@ -74,15 +74,14 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266)](https://github.com/Ritika-Bhati-2266)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Ritika-Bhati-2266)
 </div>
 
 ---
 
 # 📈 Contribution Graph:
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Ritika-Bhati-2266&theme=tokyo-night)
-
+[![Ritika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritika-Bhati-2266&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true)](https://github.com/Ritika-Bhati-2266)
 ---
 
 # ✍️ Random Dev Quote
