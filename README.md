@@ -1,39 +1,25 @@
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&height=60&lines=Hey+there!+I'm+Ritika+Bhati+%F0%9F%91%8B;AI+%26+ML+Engineer+%F0%9F%A4%96;Data+Science+Enthusiast+%F0%9F%93%8A;Building+Intelligent+Systems+%F0%9F%9A%80;Turning+Data+into+Insights+%F0%9F%92%A1)](https://git.io/typing-svg)
-
 ![](https://komarev.com/ghpvc/?username=Ritika-Bhati-2266&label=Visitors&color=blueviolet&style=for-the-badge)
-
 </div>
-
 ---
-
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 # 💫 About Me:
 🤖 Passionate about building AI-powered and data-driven solutions using Artificial Intelligence, Machine Learning, and Data Science.  
 💡 I love transforming ideas into real-world applications using ML models and data analysis.  
 📊 Turning raw data into meaningful insights.  
 🚀 Always learning new tools & building impactful projects.  
 💻 Believer in AI transforming industries.
-
 <br clear="right"/>
-
 ---
-
 # 🌐 Connect With Me:
 <div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritika-bhati/)
 [![GitHub](https://img.shields.io/badge/GitHub-12100E?logo=github&logoColor=white)](https://github.com/Ritika-Bhati-2266)
-
 </div>
-
 ---
-
 # 💻 Tech Stack:
 <div align="center">
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -47,29 +33,15 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
 </div>
-
 ---
-
 # 📊 GitHub Stats:
 <div align="center">
-
-<!-- ✅ FIX: Apna khud ka Vercel deployment URL use karo neeche -->
-<!-- Step 1: https://github.com/anuraghazra/github-readme-stats fork karo -->
-<!-- Step 2: Vercel pe deploy karo + GITHUB_TOKEN env variable add karo -->
-<!-- Step 3: YOUR-APP-NAME ko apne actual Vercel app name se replace karo -->
-
-![GitHub Stats](https://YOUR-APP-NAME.vercel.app/api?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ritika-Bhati-2266&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://YOUR-APP-NAME.vercel.app/api/top-langs/?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com?user=Ritika-Bhati-2266&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&layout=compact)
 </div>
-
 ---
-
 # 🏆 GitHub Trophies:
 <div align="center">
   <img
@@ -77,26 +49,15 @@
     alt="GitHub Trophies"
   />
 </div>
-
----
-
 # 📈 Contribution Graph:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Ritika-Bhati-2266&theme=tokyo-night)
-
 ---
-
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
-
 # 🐍 Contribution Snake
 ![snake gif](https://github.com/Ritika-Bhati-2266/Ritika-Bhati-2266/blob/output/github-contribution-grid-snake.svg?raw=true)
-
 ---
-
 <div align="center">
-
-### 🚀 "Transforming Data into Intelligent Solutions"
-
+### 🚀 “Transforming Data into Intelligent Solutions”
 </div>
