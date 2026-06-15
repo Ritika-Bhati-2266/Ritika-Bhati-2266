@@ -74,7 +74,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Ritika-Bhati-2266)
+<img src="https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 </div>
 
 ---
@@ -82,6 +82,8 @@
 # 📈 Contribution Graph:
 
 [![Ritika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritika-Bhati-2266&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true)](https://github.com/Ritika-Bhati-2266)
+
+
 ---
 
 # ✍️ Random Dev Quote
