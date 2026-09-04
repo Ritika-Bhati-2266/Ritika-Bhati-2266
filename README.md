@@ -5,6 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=Ritika-Bhati-2266&label=Profile+Views&color=blueviolet&style=for-the-badge)
 [![Followers](https://img.shields.io/github/followers/Ritika-Bhati-2266?style=for-the-badge&color=70A5FD&label=Followers)](https://github.com/Ritika-Bhati-2266?tab=followers)
 ![Repos](https://img.shields.io/badge/Repos-24-blueviolet?style=for-the-badge)
+
 </div>
 
 ---
@@ -27,31 +28,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritika-bhati/)
 [![GitHub](https://img.shields.io/badge/GitHub-12100E?logo=github&logoColor=white)](https://github.com/Ritika-Bhati-2266)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
 </div>
 
 ---
 
-# 🔥 Featured Projects — Latest Updated
-
-| Project | Language | ⭐ | Updated | About |
-|---|---|---|---|---|
-| [**AI_Powered_Retail_Recommendation_Platform**](https://github.com/Ritika-Bhati-2266/AI_Powered_Retail_Recommendation_Platform) | Python | 1 | 2026-09-01 | AI-powered retail recommendation engine |
-| [**Credit-Card-Fraud-Detection**](https://github.com/Ritika-Bhati-2266/Credit-Card-Fraud-Detection) | Python | 1 | 2026-08-24 | Streamlit app: synthetic transactions, multi-model ML, real-time fraud prediction |
-| [**AI_Powered_Interview_Intelligence_System**](https://github.com/Ritika-Bhati-2266/AI_Powered_Interview_Intelligence_System) | Python | 1 | 2026-08-22 | AI-driven interview analysis & scoring |
-| [**Data-Science**](https://github.com/Ritika-Bhati-2266/Data-Science) | Jupyter Notebook | 0 | 2026-08-16 | Data Science experiments & notebooks |
-| [**Decision_Intelligence**](https://github.com/Ritika-Bhati-2266/Decision_Intelligence) | JavaScript | 1 | 2026-04-24 | Flask-based decision intelligence with structured scoring |
-| [**AI-Property-Search-Assistant**](https://github.com/Ritika-Bhati-2266/AI-Property-Search-Assistant) | JavaScript | 1 | 2026-06-12 | Smart AI property search assistant |
-
-> Also Check: `DeciXAI` (Fork), `Retail-Hyper-Personalisation`, `AI-GitHub-Project-Analyzer`, `Hackerank/GFG/Leetcode Solutions`
-
----
-
-# 💻 Tech Stack — Based on Your 24 Repos
-
+# 💻 Tech Stack
 <div align="center">
-
-**Most Used:** Python (7) • Jupyter Notebook (4) • JavaScript (5) • CSS (1)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -65,8 +48,10 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
 </div>
 
 ---
@@ -76,7 +61,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com?user=Ritika-Bhati-2266&theme=tokyonight&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&layout=compact)
+
 </div>
 
 ---
@@ -84,13 +71,18 @@
 # 🏆 GitHub Trophies
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Ritika-Bhati-2266)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/Ritika-Bhati-2266)
+
 </div>
 
 ---
 
 # 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Ritika-Bhati-2266&theme=tokyo-night)
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ritika-Bhati-2266&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 
 ---
 
@@ -108,4 +100,5 @@
 
 ### 🚀 “Transforming Data into Intelligent Solutions”
 <img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff" />
+
 </div>
