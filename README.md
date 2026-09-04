@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&height=60&lines=Hey+there!+I'm+Ritika+Bhati+👋;AI+%26+ML+Engineer+🤖;Data+Science+Enthusiast+📊;Building+Intelligent+Systems+🚀;Turning+Data+into+Insights+💡)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=Ritika-Bhati-2266&label=Profile+Views&color=blueviolet&style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/Ritika-Bhati-2266?style=for-the-badge&color=70A5FD&label=Followers)](https://github.com/Ritika-Bhati-2266?tab=followers)
-![Repos](https://img.shields.io/badge/Repos-24-blueviolet?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Ritika-Bhati-2266&label=Visitors&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -12,39 +10,41 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-# 💫 About Me
-🤖 AI & ML Engineer | Data Science Enthusiast  
-💡 Building AI-powered, data-driven solutions for real-world problems  
-📊 Turning raw data → meaningful insights → intelligent systems  
-🚀 24 Public Projects | Always learning & shipping  
-💻 Mission: Transforming Data into Intelligent Solutions
+# 💫 About Me:
+
+🤖 Passionate about building AI-powered and data-driven solutions using Artificial Intelligence, Machine Learning, and Data Science.  
+💡 I love transforming ideas into real-world applications using ML models and data analysis.  
+📊 Turning raw data into meaningful insights.  
+🚀 Always learning new tools & building impactful projects.  
+💻 Believer in AI transforming industries.
 
 <br clear="right"/>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect With Me:
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritika-bhati/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-12100E?logo=github&logoColor=white)](https://github.com/Ritika-Bhati-2266)
 
 </div>
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tech Stack:
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -56,10 +56,12 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
+
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
 ![](https://streak-stats.demolab.com?user=Ritika-Bhati-2266&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&layout=compact)
@@ -68,30 +70,30 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophies:
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/Ritika-Bhati-2266)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Ritika-Bhati-2266)
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
-<div align="center">
+# 📈 Contribution Graph:
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Ritika-Bhati-2266&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ritika-Bhati-2266&theme=tokyo-night)
 
 ---
 
 # ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 # 🐍 Contribution Snake
+
 ![snake gif](https://github.com/Ritika-Bhati-2266/Ritika-Bhati-2266/blob/output/github-contribution-grid-snake.svg?raw=true)
 
 ---
@@ -99,6 +101,5 @@
 <div align="center">
 
 ### 🚀 “Transforming Data into Intelligent Solutions”
-<img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff" />
 
-</div>
+</div>   
