@@ -60,11 +60,11 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![](https://streak-stats.demolab.com?user=Ritika-Bhati-2266&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Bhati-2266&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800)
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Ritika-Bhati-2266)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ritika-Bhati-2266&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8)](https://github.com/Ritika-Bhati-2266)
 
 </div>
 
@@ -82,7 +82,7 @@
 
 # 📈 Contribution Graph:
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Ritika-Bhati-2266&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ritika-Bhati-2266&theme=tokyo-night&hide_border=true)
 
 ---
 
@@ -102,4 +102,4 @@
 
 ### 🚀 “Transforming Data into Intelligent Solutions”
 
-</div>   
+</div>
